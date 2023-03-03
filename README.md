@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/александр-панов-13a4a712b/">
 	  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="t.me/aleksandr_04_panov">
+  <a href="https://t.me/aleksandr_04_panov">
 	  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
